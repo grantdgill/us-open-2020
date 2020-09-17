@@ -119,6 +119,33 @@ fantasy.config = {
                 GOLFERS.ADAM_SCOTT,
                 GOLFERS.LOUIS_OOSTHUIZEN
             ]
+        }, {
+            name: 'JackG',
+            golfers: [
+                GOLFERS.DUSTIN_JOHNSON,
+                GOLFERS.RORY_MCILROY,
+                GOLFERS.BRYSON_DECHAMBEAU,
+                GOLFERS.ADAM_SCOTT,
+                GOLFERS.JUSTIN_ROSE
+            ]
+        }, {
+            name: 'JR',
+            golfers: [
+                GOLFERS.DUSTIN_JOHNSON,
+                GOLFERS.JON_RAHM,
+                GOLFERS.HIDEKI_MATSUYAMA,
+                GOLFERS.TONY_FINAU,
+                GOLFERS.TIGER_WOODS
+            ]
+        }, {
+            name: 'Richard',
+            golfers: [
+                GOLFERS.DUSTIN_JOHNSON,
+                GOLFERS.JON_RAHM,
+                GOLFERS.XANDER_SCHAUFFELE,
+                GOLFERS.COLLIN_MORIKAWA,
+                GOLFERS.WEBB_SIMPSON
+            ]
         }
 	],
 	firstPlaceValue: 50,
