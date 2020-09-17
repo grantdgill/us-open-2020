@@ -53,7 +53,11 @@ var GOLFERS = {
 	XANDER_SCHAUFFELE: 10140,
 	KIRADECH_APHIBARNRAT: 5771,
 	FRANCESCO_MOLINARI: 1483,
-	PATRICK_CANTLAY: 6007
+    PATRICK_CANTLAY: 6007,
+    SUNGJAE_IM: 11382,
+    COLLIN_MORIKAWA: 10592,
+    MATTHEW_FITZPATRICK: 9037,
+    WEBB_SIMPSON: 1614
 };
 
 
@@ -62,135 +66,60 @@ fantasy.config = {
 	tournamentId: 401219333,
 	teams: [
 		{
-			name: 'JackG',
-			golfers: [
-				GOLFERS.BROOKS_KOEPKA,
-				GOLFERS.TIGER_WOODS,
-				GOLFERS.JUSTIN_ROSE,
-				GOLFERS.FRANCESCO_MOLINARI,
-				GOLFERS.BRYSON_DECHAMBEAU
-			]
-		},
-		{
-			name: 'Buzz',
-			golfers: [
-				GOLFERS.BROOKS_KOEPKA,
-				GOLFERS.DUSTIN_JOHNSON,
-				GOLFERS.RORY_MCILROY,
-				GOLFERS.PATRICK_CANTLAY,
-				GOLFERS.JUSTIN_ROSE
-			]
-		},
-		{
-			name: 'Garrett',
-			golfers: [
-				GOLFERS.BROOKS_KOEPKA,
-				GOLFERS.DUSTIN_JOHNSON,
-				GOLFERS.TIGER_WOODS,
-				GOLFERS.XANDER_SCHAUFFELE,
-				GOLFERS.JASON_DAY
-			]
-		},
-		{
-			name: 'JR',
-			golfers: [
-				GOLFERS.JORDAN_SPIETH,
-				GOLFERS.PATRICK_CANTLAY,
-				GOLFERS.FRANCESCO_MOLINARI,
-				GOLFERS.JASON_DAY,
-				GOLFERS.TONY_FINAU
-			]
-		},
-		{
-			name: 'Richard',
-			golfers: [
-				GOLFERS.BROOKS_KOEPKA,
-				GOLFERS.DUSTIN_JOHNSON,
-				GOLFERS.RORY_MCILROY,
-				GOLFERS.TIGER_WOODS,
-				GOLFERS.XANDER_SCHAUFFELE
-			]
-		},
-		{
-			name: 'Rich',
-			golfers: [
-				GOLFERS.BROOKS_KOEPKA,
-				GOLFERS.RORY_MCILROY,
-				GOLFERS.TIGER_WOODS,
-				GOLFERS.JUSTIN_THOMAS,
-				GOLFERS.PHIL_MICKELSON
-			]
-		},
-		{
-			name: 'JimW',
-			golfers: [
-				GOLFERS.DUSTIN_JOHNSON,
-				GOLFERS.TIGER_WOODS,
-				GOLFERS.XANDER_SCHAUFFELE,
-				GOLFERS.JASON_DAY,
-				GOLFERS.TOMMY_FLEETWOOD
-			]
-		},
-		{
-			name: 'MattW',
-			golfers: [
-				GOLFERS.DUSTIN_JOHNSON,
-				GOLFERS.TIGER_WOODS,
-				GOLFERS.JUSTIN_THOMAS,
-				GOLFERS.ADAM_SCOTT,
-				GOLFERS.TONY_FINAU
-			]
-		},
-		{
 			name: 'GrantG',
 			golfers: [
-				GOLFERS.BROOKS_KOEPKA,
-				GOLFERS.RORY_MCILROY,
-				GOLFERS.TIGER_WOODS,
-				GOLFERS.TOMMY_FLEETWOOD,
-				GOLFERS.PHIL_MICKELSON
-			]
-		},
-		{
-			name: 'JettaG',
-			golfers: [
-				GOLFERS.BROOKS_KOEPKA,
-				GOLFERS.DUSTIN_JOHNSON,
-				GOLFERS.RORY_MCILROY,
-				GOLFERS.FRANCESCO_MOLINARI,
-				GOLFERS.PHIL_MICKELSON
-			]
-		},
-		{
-			name: 'JohnG',
-			golfers: [
-				GOLFERS.BROOKS_KOEPKA,
-				GOLFERS.DUSTIN_JOHNSON,
-				GOLFERS.TIGER_WOODS,
-				GOLFERS.TONY_FINAU,
-				GOLFERS.PHIL_MICKELSON
-			]
-		},
-		{
-			name: 'DaveG',
-			golfers: [
-				GOLFERS.BROOKS_KOEPKA,
 				GOLFERS.XANDER_SCHAUFFELE,
-				GOLFERS.FRANCESCO_MOLINARI,
-				GOLFERS.TOMMY_FLEETWOOD,
-				GOLFERS.BRANDT_SNEDEKER
+				GOLFERS.DUSTIN_JOHNSON,
+				GOLFERS.JON_RAHM,
+                GOLFERS.DANIEL_BERGER,
+                GOLFERS.SUNGJAE_IM
 			]
-		},
-		{
-			name: 'LauraG',
-			golfers: [
-				GOLFERS.BROOKS_KOEPKA,
-				GOLFERS.RORY_MCILROY,
-				GOLFERS.JORDAN_SPIETH,
-				GOLFERS.PATRICK_CANTLAY,
-				GOLFERS.RICKIE_FOWLER
-			]
-		}
+		}, {
+            name: 'MeaganG',
+            golfers: [
+                GOLFERS.HIDEKI_MATSUYAMA,
+                GOLFERS.RORY_MCILROY,
+                GOLFERS.RICKIE_FOWLER,
+                GOLFERS.JASON_DAY,
+                GOLFERS.ADAM_SCOTT
+            ]
+        }, {
+            name: 'AdamP',
+            golfers: [
+                GOLFERS.JUSTIN_THOMAS,
+                GOLFERS.DUSTIN_JOHNSON,
+                GOLFERS.TONY_FINAU,
+                GOLFERS.COLLIN_MORIKAWA,
+                GOLFERS.WEBB_SIMPSON
+            ]
+        }, {
+            name: 'DaveG',
+            golfers: [
+                GOLFERS.XANDER_SCHAUFFELE,
+                GOLFERS.RORY_MCILROY,
+                GOLFERS.PATRICK_CANTLAY,
+                GOLFERS.TOMMY_FLEETWOOD,
+                GOLFERS.MARTIN_KAYMER
+            ]
+        }, {
+            name: 'JohnG',
+            golfers: [
+                GOLFERS.DUSTIN_JOHNSON,
+                GOLFERS.JON_RAHM,
+                GOLFERS.RORY_MCILROY,
+                GOLFERS.BRYSON_DECHAMBEAU,
+                GOLFERS.MATTHEW_FITZPATRICK
+            ]
+        }, {
+            name: 'Laura',
+            golfers: [
+                GOLFERS.RORY_MCILROY,
+                GOLFERS.WEBB_SIMPSON,
+                GOLFERS.TONY_FINAU,
+                GOLFERS.ADAM_SCOTT,
+                GOLFERS.LOUIS_OOSTHUIZEN
+            ]
+        }
 	],
 	firstPlaceValue: 50,
 	showCut: false,
