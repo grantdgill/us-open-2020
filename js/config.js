@@ -146,6 +146,15 @@ fantasy.config = {
                 GOLFERS.COLLIN_MORIKAWA,
                 GOLFERS.WEBB_SIMPSON
             ]
+        }, {
+            name: 'Ted',
+            golfers: [
+                GOLFERS.RORY_MCILROY,
+                GOLFERS.RICKIE_FOWLER,
+                GOLFERS.JON_RAHM,
+                GOLFERS.COLLIN_MORIKAWA,
+                GOLFERS.TOMMY_FLEETWOOD
+            ]
         }
 	],
 	firstPlaceValue: 50,
