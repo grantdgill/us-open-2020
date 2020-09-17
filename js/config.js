@@ -66,7 +66,7 @@ fantasy.config = {
 	tournamentId: 401219333,
 	teams: [
 		{
-			name: 'GrantG',
+			name: 'Grant',
 			golfers: [
 				GOLFERS.XANDER_SCHAUFFELE,
 				GOLFERS.DUSTIN_JOHNSON,
@@ -75,7 +75,7 @@ fantasy.config = {
                 GOLFERS.SUNGJAE_IM
 			]
 		}, {
-            name: 'MeaganG',
+            name: 'Meagan',
             golfers: [
                 GOLFERS.HIDEKI_MATSUYAMA,
                 GOLFERS.RORY_MCILROY,
@@ -84,7 +84,7 @@ fantasy.config = {
                 GOLFERS.ADAM_SCOTT
             ]
         }, {
-            name: 'AdamP',
+            name: 'Adam',
             golfers: [
                 GOLFERS.JUSTIN_THOMAS,
                 GOLFERS.DUSTIN_JOHNSON,
@@ -93,7 +93,7 @@ fantasy.config = {
                 GOLFERS.WEBB_SIMPSON
             ]
         }, {
-            name: 'DaveG',
+            name: 'Dave',
             golfers: [
                 GOLFERS.XANDER_SCHAUFFELE,
                 GOLFERS.RORY_MCILROY,
@@ -102,7 +102,7 @@ fantasy.config = {
                 GOLFERS.MARTIN_KAYMER
             ]
         }, {
-            name: 'JohnG',
+            name: 'John',
             golfers: [
                 GOLFERS.DUSTIN_JOHNSON,
                 GOLFERS.JON_RAHM,
@@ -120,7 +120,7 @@ fantasy.config = {
                 GOLFERS.LOUIS_OOSTHUIZEN
             ]
         }, {
-            name: 'JackG',
+            name: 'Jack',
             golfers: [
                 GOLFERS.DUSTIN_JOHNSON,
                 GOLFERS.RORY_MCILROY,
