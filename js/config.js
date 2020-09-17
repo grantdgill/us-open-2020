@@ -155,6 +155,60 @@ fantasy.config = {
                 GOLFERS.COLLIN_MORIKAWA,
                 GOLFERS.TOMMY_FLEETWOOD
             ]
+        }, {
+            name: 'Buzz',
+            golfers: [
+                GOLFERS.DUSTIN_JOHNSON,
+                GOLFERS.JON_RAHM,
+                GOLFERS.JUSTIN_THOMAS,
+                GOLFERS.XANDER_SCHAUFFELE,
+                GOLFERS.COLLIN_MORIKAWA
+            ]
+        }, {
+            name: 'Garrett',
+            golfers: [
+                GOLFERS.DUSTIN_JOHNSON,
+                GOLFERS.JUSTIN_THOMAS,
+                GOLFERS.RORY_MCILROY,
+                GOLFERS.WEBB_SIMPSON,
+                GOLFERS.TIGER_WOODS
+            ]
+        }, {
+            name: 'Richard',
+            golfers: [
+                GOLFERS.DUSTIN_JOHNSON,
+                GOLFERS.JON_RAHM,
+                GOLFERS.XANDER_SCHAUFFELE,
+                GOLFERS.COLLIN_MORIKAWA,
+                GOLFERS.WEBB_SIMPSON
+            ]
+        }, {
+            name: 'Matt',
+            golfers: [
+                GOLFERS.JON_RAHM,
+                GOLFERS.JUSTIN_THOMAS,
+                GOLFERS.RORY_MCILROY,
+                GOLFERS.DANIEL_BERGER,
+                GOLFERS.ADAM_SCOTT
+            ]
+        }, {
+            name: 'Rich',
+            golfers: [
+                GOLFERS.DUSTIN_JOHNSON,
+                GOLFERS.JON_RAHM,
+                GOLFERS.JUSTIN_THOMAS,
+                GOLFERS.XANDER_SCHAUFFELE,
+                GOLFERS.COLLIN_MORIKAWA
+            ]
+        }, {
+            name: 'Alice',
+            golfers: [
+                GOLFERS.DUSTIN_JOHNSON,
+                GOLFERS.JON_RAHM,
+                GOLFERS.JUSTIN_THOMAS,
+                GOLFERS.XANDER_SCHAUFFELE,
+                GOLFERS.RORY_MCILROY
+            ]
         }
 	],
 	firstPlaceValue: 50,
