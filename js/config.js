@@ -174,13 +174,13 @@ fantasy.config = {
                 GOLFERS.TIGER_WOODS
             ]
         }, {
-            name: 'Richard',
+            name: 'Jetta',
             golfers: [
                 GOLFERS.DUSTIN_JOHNSON,
                 GOLFERS.JON_RAHM,
                 GOLFERS.XANDER_SCHAUFFELE,
                 GOLFERS.COLLIN_MORIKAWA,
-                GOLFERS.WEBB_SIMPSON
+                GOLFERS.BRYSON_DECHAMBEAU
             ]
         }, {
             name: 'Matt',
